@@ -1,0 +1,8 @@
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/main
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/main.dll
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/main.deps.json
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/main.runtimeconfig.json
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/main.pdb
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/Newtonsoft.Json.dll
+/home/runner/CSharpTest/bin/Debug/netcoreapp6.0/publish/Npgsql.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NG5MGPB9shAvBi+uI3xeoa8bMlmW7VLUK+u/kRsHFY9KeD6HXvZF0CfGhrbZ53eMo4w1ypG6Th6u6psa1m1lw==",
+  "success": true,
+  "projectFilePath": "/home/runner/CSharpTest/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
